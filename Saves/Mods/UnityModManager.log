@@ -1,0 +1,441 @@
+[Manager] Version '0.12.2'. Initialize.
+[Manager] Parsing mods.
+[Manager] Reading file 'D:\Steam\steamapps\common\The Scroll Of Taiwu\Mods\CharacterFloatInfo\info.json'.
+[Manager] Reading file 'D:\Steam\steamapps\common\The Scroll Of Taiwu\Mods\EasyRefine\info.json'.
+[Manager] Reading file 'D:\Steam\steamapps\common\The Scroll Of Taiwu\Mods\FactionEnhancement\info.json'.
+[Manager] Reading file 'D:\Steam\steamapps\common\The Scroll Of Taiwu\Mods\GameSpeeder\info.json'.
+[Manager] Reading file 'D:\Steam\steamapps\common\The Scroll Of Taiwu\Mods\GuiBaseUI\info.json'.
+[Manager] Reading file 'D:\Steam\steamapps\common\The Scroll Of Taiwu\Mods\HappyLife\info.json'.
+[Manager] Reading file 'D:\Steam\steamapps\common\The Scroll Of Taiwu\Mods\Majordemo\info.json'.
+[Manager] Reading file 'D:\Steam\steamapps\common\The Scroll Of Taiwu\Mods\makeMore\info.json'.
+[Manager] Reading file 'D:\Steam\steamapps\common\The Scroll Of Taiwu\Mods\MakeYourWant\info.json'.
+[Manager] Reading file 'D:\Steam\steamapps\common\The Scroll Of Taiwu\Mods\SLManager\info.json'.
+[Manager] Reading file 'D:\Steam\steamapps\common\The Scroll Of Taiwu\Mods\SwitchTheBook\info.json'.
+[Manager] Reading file 'D:\Steam\steamapps\common\The Scroll Of Taiwu\Mods\UseStorageBook\info.json'.
+[Manager] Reading file 'D:\Steam\steamapps\common\The Scroll Of Taiwu\Mods\UseStorageMaterial\info.json'.
+[Manager] Reading file 'D:\Steam\steamapps\common\The Scroll Of Taiwu\Mods\VillageHeadOfTaiwu\info.json'.
+[Manager] Sorting mods.
+[Manager] Loading mods.
+[CharacterFloatInfo] Version '1.5.1'. Loading.
+[CharacterFloatInfo] Active.
+[EasyRefine] Version '1.0.13'. Loading.
+[EasyRefine] Active.
+[FactionEnhancement] Version '1.0.10'. Loading.
+[FactionEnhancement] Active.
+[GameSpeeder] Version '1.1.5'. Loading.
+[GameSpeeder] Active.
+[GuiBaseUI] Version '2.2.0'. Loading.
+[GuiBaseUI] Active.
+[HappyLife] Version '1.0.8'. Loading.
+[HappyLife] Active.
+[Majordomo] Version '1.2.11'. Loading.
+[Majordomo] Active.
+[MakeYourWant] Version '1.1.8'. Loading.
+[MakeYourWant] Active.
+[SLManager] Version '1.5.6'. Loading.
+[SLManager] 插入成功
+[SLManager] Active.
+[SwitchTheBook] Version '1.0.5'. Loading.
+[SwitchTheBook] Active.
+[UseStorageBook] Version '1.3.4'. Loading.
+[UseStorageBook] Active.
+[UseStorageMaterial] Version '1.0.5'. Loading.
+[UseStorageMaterial] Active.
+[VillageHeadOfTaiwu] Version '1.2.4'. Loading.
+[VillageHeadOfTaiwu] Active.
+[makeMore] Version '1.1.2'. Loading.
+[makeMore] make more mod start
+[makeMore] Active.
+[Manager] FINISH. FOUND 14 MODS. SUCCESSFUL LOADED 14 MODS.
+[SwitchTheBook] GongFaDict Loaded with size: 1444
+[SwitchTheBook] Totally find itemsDate with size: 4442
+[SwitchTheBook] Dict of itemsDate with size: 4442
+[Majordomo] Appended sprite TrunEventImage_majordomo, Id: 60.
+[Majordomo] Found expression '${TrunEventImage_majordomo}', and replaced it with '60'.
+[CharacterFloatInfo] CharacterFloatInfo.ActorMenu_Awake_Patch patched
+[VillageHeadOfTaiwu] awake
+[VillageHeadOfTaiwu] create ui: True
+[VillageHeadOfTaiwu] start
+[VillageHeadOfTaiwu] Toggle on
+[SLManager] Add buttons
+[CharacterFloatInfo] Hi there
+[CharacterFloatInfo] Hi there
+[CharacterFloatInfo] Hi there
+[CharacterFloatInfo] Hi there
+[CharacterFloatInfo] Hi there
+[CharacterFloatInfo] Hi there
+[CharacterFloatInfo] Hi there
+[CharacterFloatInfo] Hi there
+[CharacterFloatInfo] Hi there
+[Majordomo] New texture file loaded: D:\Steam\steamapps\common\The Scroll Of Taiwu\Mods\Majordemo\resources\Texture\ChartSprite_Dot.png, texture size: 32, 32.
+[Majordomo] New texture file loaded: D:\Steam\steamapps\common\The Scroll Of Taiwu\Mods\Majordemo\resources\Texture\ButtonIcon_Majordomo_LogsPanel.png, texture size: 300, 300.
+[Majordomo] New texture file loaded: D:\Steam\steamapps\common\The Scroll Of Taiwu\Mods\Majordemo\resources\Texture\ButtonIcon_Majordomo_ChartsPanel.png, texture size: 300, 300.
+[Majordomo] New texture file loaded: D:\Steam\steamapps\common\The Scroll Of Taiwu\Mods\Majordemo\resources\Texture\ButtonIcon_Majordomo_AssignBuildingWorkers.png, texture size: 300, 300.
+[Majordomo] New texture file loaded: D:\Steam\steamapps\common\The Scroll Of Taiwu\Mods\Majordemo\resources\Texture\SystemIcon_majordomo.png, texture size: 300, 300.
+[UseStorageBook] load
+[UseStorageBook] awake
+[UseStorageBook] start
+[CharacterFloatInfo] Hi there
+[CharacterFloatInfo] Hi there
+[CharacterFloatInfo] Hi there
+[CharacterFloatInfo] Hi there
+[CharacterFloatInfo] Hi there
+[CharacterFloatInfo] Hi there
+[CharacterFloatInfo] Hi there
+[CharacterFloatInfo] Hi there
+[CharacterFloatInfo] Hi there
+[Majordomo] New texture file loaded: D:\Steam\steamapps\common\The Scroll Of Taiwu\Mods\Majordemo\resources\Texture\ButtonIcon_Majordomo_LogsPanel.png, texture size: 300, 300.
+[Majordomo] New texture file loaded: D:\Steam\steamapps\common\The Scroll Of Taiwu\Mods\Majordemo\resources\Texture\ButtonIcon_Majordomo_ChartsPanel.png, texture size: 300, 300.
+[Majordomo] New texture file loaded: D:\Steam\steamapps\common\The Scroll Of Taiwu\Mods\Majordemo\resources\Texture\ButtonIcon_Majordomo_AssignBuildingWorkers.png, texture size: 300, 300.
+[Majordomo] New texture file loaded: D:\Steam\steamapps\common\The Scroll Of Taiwu\Mods\Majordemo\resources\Texture\TrunEventImage_majordomo.png, texture size: 300, 300.
+[SLManager] 开始备份存档
+[SLManager] 当前存档数:200
+[SLManager] 备份路径:D:\Steam\steamapps\common\The Scroll Of Taiwu\The Scroll Of Taiwu Alpha V1.0_Data\SaveFiles\SaveBackup\Date_1.save.00000925.zip
+[SLManager] Start WriteSaveSummary to D:\Steam\steamapps\common\The Scroll Of Taiwu\The Scroll Of Taiwu Alpha V1.0_Data\SaveFiles\Date_1\date.json
+[CharacterFloatInfo] Hi there
+[CharacterFloatInfo] Hi there
+[SLManager] 开始备份存档
+[SLManager] 当前存档数:200
+[SLManager] 备份路径:D:\Steam\steamapps\common\The Scroll Of Taiwu\The Scroll Of Taiwu Alpha V1.0_Data\SaveFiles\SaveBackup\Date_1.save.00000926.zip
+[SLManager] Start WriteSaveSummary to D:\Steam\steamapps\common\The Scroll Of Taiwu\The Scroll Of Taiwu Alpha V1.0_Data\SaveFiles\Date_1\date.json
+[CharacterFloatInfo] Hi there
+[CharacterFloatInfo] Hi there
+[Majordomo] 新村民：苗篆，潜在商队：五湖商会
+[Majordomo] New texture file loaded: D:\Steam\steamapps\common\The Scroll Of Taiwu\Mods\Majordemo\resources\Texture\TrunEventImage_majordomo.png, texture size: 300, 300.
+[SLManager] 开始备份存档
+[SLManager] 当前存档数:200
+[SLManager] 备份路径:D:\Steam\steamapps\common\The Scroll Of Taiwu\The Scroll Of Taiwu Alpha V1.0_Data\SaveFiles\SaveBackup\Date_1.save.00000927.zip
+[SLManager] Start WriteSaveSummary to D:\Steam\steamapps\common\The Scroll Of Taiwu\The Scroll Of Taiwu Alpha V1.0_Data\SaveFiles\Date_1\date.json
+[CharacterFloatInfo] Hi there
+[CharacterFloatInfo] Hi there
+[CharacterFloatInfo] Hi there
+[CharacterFloatInfo] Hi there
+[CharacterFloatInfo] Hi there
+[CharacterFloatInfo] Hi there
+[CharacterFloatInfo] Hi there
+[CharacterFloatInfo] Hi there
+[CharacterFloatInfo] Hi there
+[CharacterFloatInfo] Hi there
+[CharacterFloatInfo] Hi there
+[CharacterFloatInfo] Hi there
+[CharacterFloatInfo] Hi there
+[CharacterFloatInfo] Hi there
+[CharacterFloatInfo] Hi there
+[CharacterFloatInfo] Hi there
+[CharacterFloatInfo] Hi there
+[CharacterFloatInfo] Hi there
+[CharacterFloatInfo] Hi there
+[CharacterFloatInfo] Hi there
+[CharacterFloatInfo] Hi there
+[CharacterFloatInfo] Hi there
+[CharacterFloatInfo] Hi there
+[CharacterFloatInfo] Hi there
+[CharacterFloatInfo] Hi there
+[CharacterFloatInfo] Hi there
+[CharacterFloatInfo] Hi there
+[CharacterFloatInfo] Hi there
+[CharacterFloatInfo] Hi there
+[CharacterFloatInfo] Hi there
+[CharacterFloatInfo] Hi there
+[CharacterFloatInfo] Hi there
+[CharacterFloatInfo] Hi there
+[CharacterFloatInfo] Hi there
+[CharacterFloatInfo] Hi there
+[CharacterFloatInfo] Hi there
+[CharacterFloatInfo] Hi there
+[CharacterFloatInfo] Hi there
+[CharacterFloatInfo] Hi there
+[CharacterFloatInfo] Hi there
+[CharacterFloatInfo] Hi there
+[CharacterFloatInfo] Hi there
+[CharacterFloatInfo] Hi there
+[CharacterFloatInfo] Hi there
+[CharacterFloatInfo] Hi there
+[CharacterFloatInfo] Hi there
+[CharacterFloatInfo] Hi there
+[CharacterFloatInfo] Hi there
+[CharacterFloatInfo] Hi there
+[CharacterFloatInfo] Hi there
+[CharacterFloatInfo] Hi there
+[CharacterFloatInfo] Hi there
+[CharacterFloatInfo] Hi there
+[CharacterFloatInfo] Hi there
+[SLManager] 开始备份存档
+[SLManager] 当前存档数:200
+[SLManager] 备份路径:D:\Steam\steamapps\common\The Scroll Of Taiwu\The Scroll Of Taiwu Alpha V1.0_Data\SaveFiles\SaveBackup\Date_1.save.00000928.zip
+[SLManager] Start WriteSaveSummary to D:\Steam\steamapps\common\The Scroll Of Taiwu\The Scroll Of Taiwu Alpha V1.0_Data\SaveFiles\Date_1\date.json
+[Majordomo] New texture file loaded: D:\Steam\steamapps\common\The Scroll Of Taiwu\Mods\Majordemo\resources\Texture\ButtonIcon_Majordomo_LogsPanel.png, texture size: 300, 300.
+[Majordomo] New texture file loaded: D:\Steam\steamapps\common\The Scroll Of Taiwu\Mods\Majordemo\resources\Texture\ButtonIcon_Majordomo_ChartsPanel.png, texture size: 300, 300.
+[Majordomo] New texture file loaded: D:\Steam\steamapps\common\The Scroll Of Taiwu\Mods\Majordemo\resources\Texture\ButtonIcon_Majordomo_AssignBuildingWorkers.png, texture size: 300, 300.
+[Majordomo] 新村民：万风清，潜在商队：五湖商会
+[Majordomo] New texture file loaded: D:\Steam\steamapps\common\The Scroll Of Taiwu\Mods\Majordemo\resources\Texture\TrunEventImage_majordomo.png, texture size: 300, 300.
+[SLManager] 开始备份存档
+[SLManager] 当前存档数:200
+[SLManager] 备份路径:D:\Steam\steamapps\common\The Scroll Of Taiwu\The Scroll Of Taiwu Alpha V1.0_Data\SaveFiles\SaveBackup\Date_1.save.00000929.zip
+[SLManager] Start WriteSaveSummary to D:\Steam\steamapps\common\The Scroll Of Taiwu\The Scroll Of Taiwu Alpha V1.0_Data\SaveFiles\Date_1\date.json
+[CharacterFloatInfo] Hi there
+[CharacterFloatInfo] Hi there
+[Majordomo] New texture file loaded: D:\Steam\steamapps\common\The Scroll Of Taiwu\Mods\Majordemo\resources\Texture\ButtonIcon_Majordomo_LogsPanel.png, texture size: 300, 300.
+[Majordomo] New texture file loaded: D:\Steam\steamapps\common\The Scroll Of Taiwu\Mods\Majordemo\resources\Texture\ButtonIcon_Majordomo_ChartsPanel.png, texture size: 300, 300.
+[Majordomo] New texture file loaded: D:\Steam\steamapps\common\The Scroll Of Taiwu\Mods\Majordemo\resources\Texture\ButtonIcon_Majordomo_AssignBuildingWorkers.png, texture size: 300, 300.
+[CharacterFloatInfo] Hi there
+[CharacterFloatInfo] Hi there
+[Majordomo] New texture file loaded: D:\Steam\steamapps\common\The Scroll Of Taiwu\Mods\Majordemo\resources\Texture\ButtonIcon_Majordomo_LogsPanel.png, texture size: 300, 300.
+[Majordomo] New texture file loaded: D:\Steam\steamapps\common\The Scroll Of Taiwu\Mods\Majordemo\resources\Texture\ButtonIcon_Majordomo_ChartsPanel.png, texture size: 300, 300.
+[Majordomo] New texture file loaded: D:\Steam\steamapps\common\The Scroll Of Taiwu\Mods\Majordemo\resources\Texture\ButtonIcon_Majordomo_AssignBuildingWorkers.png, texture size: 300, 300.
+[Majordomo] 新村民：戚岳英，潜在商队：公输坊
+[Majordomo] New texture file loaded: D:\Steam\steamapps\common\The Scroll Of Taiwu\Mods\Majordemo\resources\Texture\TrunEventImage_majordomo.png, texture size: 300, 300.
+[SLManager] 开始备份存档
+[SLManager] 当前存档数:200
+[SLManager] 备份路径:D:\Steam\steamapps\common\The Scroll Of Taiwu\The Scroll Of Taiwu Alpha V1.0_Data\SaveFiles\SaveBackup\Date_1.save.00000930.zip
+[SLManager] Start WriteSaveSummary to D:\Steam\steamapps\common\The Scroll Of Taiwu\The Scroll Of Taiwu Alpha V1.0_Data\SaveFiles\Date_1\date.json
+[CharacterFloatInfo] Hi there
+[CharacterFloatInfo] Hi there
+[CharacterFloatInfo] Hi there
+[CharacterFloatInfo] Hi there
+[CharacterFloatInfo] Hi there
+[CharacterFloatInfo] Hi there
+[CharacterFloatInfo] Hi there
+[CharacterFloatInfo] Hi there
+[CharacterFloatInfo] Hi there
+[CharacterFloatInfo] Hi there
+[CharacterFloatInfo] Hi there
+[CharacterFloatInfo] Hi there
+[CharacterFloatInfo] Hi there
+[CharacterFloatInfo] Hi there
+[CharacterFloatInfo] Hi there
+[CharacterFloatInfo] Hi there
+[CharacterFloatInfo] Hi there
+[CharacterFloatInfo] Hi there
+[CharacterFloatInfo] Hi there
+[CharacterFloatInfo] Hi there
+[Majordomo] New texture file loaded: D:\Steam\steamapps\common\The Scroll Of Taiwu\Mods\Majordemo\resources\Texture\ButtonIcon_Majordomo_LogsPanel.png, texture size: 300, 300.
+[Majordomo] New texture file loaded: D:\Steam\steamapps\common\The Scroll Of Taiwu\Mods\Majordemo\resources\Texture\ButtonIcon_Majordomo_ChartsPanel.png, texture size: 300, 300.
+[Majordomo] New texture file loaded: D:\Steam\steamapps\common\The Scroll Of Taiwu\Mods\Majordemo\resources\Texture\ButtonIcon_Majordomo_AssignBuildingWorkers.png, texture size: 300, 300.
+[CharacterFloatInfo] Hi there
+[CharacterFloatInfo] Hi there
+[CharacterFloatInfo] Hi there
+[CharacterFloatInfo] Hi there
+[CharacterFloatInfo] Hi there
+[CharacterFloatInfo] Hi there
+[CharacterFloatInfo] Hi there
+[CharacterFloatInfo] Hi there
+[CharacterFloatInfo] Hi there
+[CharacterFloatInfo] Hi there
+[CharacterFloatInfo] Hi there
+[CharacterFloatInfo] Hi there
+[CharacterFloatInfo] Hi there
+[CharacterFloatInfo] Hi there
+[CharacterFloatInfo] Hi there
+[CharacterFloatInfo] Hi there
+[Majordomo] New texture file loaded: D:\Steam\steamapps\common\The Scroll Of Taiwu\Mods\Majordemo\resources\Texture\ButtonIcon_Majordomo_LogsPanel.png, texture size: 300, 300.
+[Majordomo] New texture file loaded: D:\Steam\steamapps\common\The Scroll Of Taiwu\Mods\Majordemo\resources\Texture\ButtonIcon_Majordomo_ChartsPanel.png, texture size: 300, 300.
+[Majordomo] New texture file loaded: D:\Steam\steamapps\common\The Scroll Of Taiwu\Mods\Majordemo\resources\Texture\ButtonIcon_Majordomo_AssignBuildingWorkers.png, texture size: 300, 300.
+[CharacterFloatInfo] Hi there
+[CharacterFloatInfo] Hi there
+[Majordomo] New texture file loaded: D:\Steam\steamapps\common\The Scroll Of Taiwu\Mods\Majordemo\resources\Texture\TrunEventImage_majordomo.png, texture size: 300, 300.
+[SLManager] 开始备份存档
+[SLManager] 当前存档数:200
+[SLManager] 备份路径:D:\Steam\steamapps\common\The Scroll Of Taiwu\The Scroll Of Taiwu Alpha V1.0_Data\SaveFiles\SaveBackup\Date_1.save.00000931.zip
+[SLManager] Start WriteSaveSummary to D:\Steam\steamapps\common\The Scroll Of Taiwu\The Scroll Of Taiwu Alpha V1.0_Data\SaveFiles\Date_1\date.json
+[CharacterFloatInfo] Hi there
+[CharacterFloatInfo] Hi there
+[CharacterFloatInfo] Hi there
+[CharacterFloatInfo] Hi there
+[CharacterFloatInfo] Hi there
+[CharacterFloatInfo] Hi there
+[CharacterFloatInfo] Hi there
+[CharacterFloatInfo] Hi there
+[CharacterFloatInfo] Hi there
+[CharacterFloatInfo] Hi there
+[CharacterFloatInfo] Hi there
+[CharacterFloatInfo] Hi there
+[CharacterFloatInfo] Hi there
+[CharacterFloatInfo] Hi there
+[CharacterFloatInfo] Hi there
+[CharacterFloatInfo] Hi there
+[CharacterFloatInfo] Hi there
+[CharacterFloatInfo] Hi there
+[CharacterFloatInfo] Hi there
+[CharacterFloatInfo] Hi there
+[CharacterFloatInfo] Hi there
+[CharacterFloatInfo] Hi there
+[CharacterFloatInfo] Hi there
+[CharacterFloatInfo] Hi there
+[Majordomo] New texture file loaded: D:\Steam\steamapps\common\The Scroll Of Taiwu\Mods\Majordemo\resources\Texture\ButtonIcon_Majordomo_LogsPanel.png, texture size: 300, 300.
+[Majordomo] New texture file loaded: D:\Steam\steamapps\common\The Scroll Of Taiwu\Mods\Majordemo\resources\Texture\ButtonIcon_Majordomo_ChartsPanel.png, texture size: 300, 300.
+[Majordomo] New texture file loaded: D:\Steam\steamapps\common\The Scroll Of Taiwu\Mods\Majordemo\resources\Texture\ButtonIcon_Majordomo_AssignBuildingWorkers.png, texture size: 300, 300.
+[CharacterFloatInfo] Hi there
+[CharacterFloatInfo] Hi there
+[CharacterFloatInfo] Hi there
+[CharacterFloatInfo] Hi there
+[CharacterFloatInfo] Hi there
+[CharacterFloatInfo] Hi there
+[CharacterFloatInfo] Hi there
+[CharacterFloatInfo] Hi there
+[CharacterFloatInfo] Hi there
+[CharacterFloatInfo] Hi there
+[CharacterFloatInfo] Hi there
+[CharacterFloatInfo] Hi there
+[CharacterFloatInfo] Hi there
+[CharacterFloatInfo] Hi there
+[CharacterFloatInfo] Hi there
+[CharacterFloatInfo] Hi there
+[CharacterFloatInfo] Hi there
+[CharacterFloatInfo] Hi there
+[CharacterFloatInfo] Hi there
+[CharacterFloatInfo] Hi there
+[CharacterFloatInfo] Hi there
+[CharacterFloatInfo] Hi there
+[CharacterFloatInfo] Hi there
+[CharacterFloatInfo] Hi there
+[CharacterFloatInfo] Hi there
+[CharacterFloatInfo] Hi there
+[CharacterFloatInfo] Hi there
+[CharacterFloatInfo] Hi there
+[CharacterFloatInfo] Hi there
+[CharacterFloatInfo] Hi there
+[CharacterFloatInfo] Hi there
+[CharacterFloatInfo] Hi there
+[CharacterFloatInfo] Hi there
+[CharacterFloatInfo] Hi there
+[CharacterFloatInfo] Hi there
+[CharacterFloatInfo] Hi there
+[CharacterFloatInfo] Hi there
+[CharacterFloatInfo] Hi there
+[CharacterFloatInfo] Hi there
+[CharacterFloatInfo] Hi there
+[CharacterFloatInfo] Hi there
+[CharacterFloatInfo] Hi there
+[CharacterFloatInfo] Hi there
+[CharacterFloatInfo] Hi there
+[Majordomo] New texture file loaded: D:\Steam\steamapps\common\The Scroll Of Taiwu\Mods\Majordemo\resources\Texture\ButtonIcon_Majordomo_LogsPanel.png, texture size: 300, 300.
+[Majordomo] New texture file loaded: D:\Steam\steamapps\common\The Scroll Of Taiwu\Mods\Majordemo\resources\Texture\ButtonIcon_Majordomo_ChartsPanel.png, texture size: 300, 300.
+[Majordomo] New texture file loaded: D:\Steam\steamapps\common\The Scroll Of Taiwu\Mods\Majordemo\resources\Texture\ButtonIcon_Majordomo_AssignBuildingWorkers.png, texture size: 300, 300.
+[CharacterFloatInfo] Hi there
+[CharacterFloatInfo] Hi there
+[Majordomo] 新村民：强耀南，潜在商队：公输坊
+[Majordomo] New texture file loaded: D:\Steam\steamapps\common\The Scroll Of Taiwu\Mods\Majordemo\resources\Texture\TrunEventImage_majordomo.png, texture size: 300, 300.
+[Majordomo] New texture file loaded: D:\Steam\steamapps\common\The Scroll Of Taiwu\Mods\Majordemo\resources\Texture\ButtonIcon_Majordomo_LogsPanel.png, texture size: 300, 300.
+[Majordomo] New texture file loaded: D:\Steam\steamapps\common\The Scroll Of Taiwu\Mods\Majordemo\resources\Texture\ButtonIcon_Majordomo_ChartsPanel.png, texture size: 300, 300.
+[Majordomo] New texture file loaded: D:\Steam\steamapps\common\The Scroll Of Taiwu\Mods\Majordemo\resources\Texture\ButtonIcon_Majordomo_AssignBuildingWorkers.png, texture size: 300, 300.
+[SLManager] 开始备份存档
+[SLManager] 当前存档数:200
+[SLManager] 备份路径:D:\Steam\steamapps\common\The Scroll Of Taiwu\The Scroll Of Taiwu Alpha V1.0_Data\SaveFiles\SaveBackup\Date_1.save.00000932.zip
+[SLManager] Start WriteSaveSummary to D:\Steam\steamapps\common\The Scroll Of Taiwu\The Scroll Of Taiwu Alpha V1.0_Data\SaveFiles\Date_1\date.json
+[CharacterFloatInfo] Hi there
+[CharacterFloatInfo] Hi there
+[Majordomo] 新村民：仇星婵，潜在商队：奇货斋
+[Majordomo] New texture file loaded: D:\Steam\steamapps\common\The Scroll Of Taiwu\Mods\Majordemo\resources\Texture\TrunEventImage_majordomo.png, texture size: 300, 300.
+[SLManager] 开始备份存档
+[SLManager] 当前存档数:200
+[SLManager] 备份路径:D:\Steam\steamapps\common\The Scroll Of Taiwu\The Scroll Of Taiwu Alpha V1.0_Data\SaveFiles\SaveBackup\Date_1.save.00000933.zip
+[SLManager] Start WriteSaveSummary to D:\Steam\steamapps\common\The Scroll Of Taiwu\The Scroll Of Taiwu Alpha V1.0_Data\SaveFiles\Date_1\date.json
+[CharacterFloatInfo] Hi there
+[CharacterFloatInfo] Hi there
+[CharacterFloatInfo] Hi there
+[CharacterFloatInfo] Hi there
+[SLManager] 开始备份存档
+[SLManager] 当前存档数:200
+[SLManager] 备份路径:D:\Steam\steamapps\common\The Scroll Of Taiwu\The Scroll Of Taiwu Alpha V1.0_Data\SaveFiles\SaveBackup\Date_1.save.00000934.zip
+[SLManager] Start WriteSaveSummary to D:\Steam\steamapps\common\The Scroll Of Taiwu\The Scroll Of Taiwu Alpha V1.0_Data\SaveFiles\Date_1\date.json
+[Majordomo] New texture file loaded: D:\Steam\steamapps\common\The Scroll Of Taiwu\Mods\Majordemo\resources\Texture\ButtonIcon_Majordomo_LogsPanel.png, texture size: 300, 300.
+[Majordomo] New texture file loaded: D:\Steam\steamapps\common\The Scroll Of Taiwu\Mods\Majordemo\resources\Texture\ButtonIcon_Majordomo_ChartsPanel.png, texture size: 300, 300.
+[Majordomo] New texture file loaded: D:\Steam\steamapps\common\The Scroll Of Taiwu\Mods\Majordemo\resources\Texture\ButtonIcon_Majordomo_AssignBuildingWorkers.png, texture size: 300, 300.
+[Majordomo] New texture file loaded: D:\Steam\steamapps\common\The Scroll Of Taiwu\Mods\Majordemo\resources\Texture\TrunEventImage_majordomo.png, texture size: 300, 300.
+[SLManager] 开始备份存档
+[SLManager] 当前存档数:200
+[SLManager] 备份路径:D:\Steam\steamapps\common\The Scroll Of Taiwu\The Scroll Of Taiwu Alpha V1.0_Data\SaveFiles\SaveBackup\Date_1.save.00000935.zip
+[SLManager] Start WriteSaveSummary to D:\Steam\steamapps\common\The Scroll Of Taiwu\The Scroll Of Taiwu Alpha V1.0_Data\SaveFiles\Date_1\date.json
+[CharacterFloatInfo] Hi there
+[CharacterFloatInfo] Hi there
+[CharacterFloatInfo] Hi there
+[CharacterFloatInfo] Hi there
+[CharacterFloatInfo] Hi there
+[CharacterFloatInfo] Hi there
+[CharacterFloatInfo] Hi there
+[CharacterFloatInfo] Hi there
+[CharacterFloatInfo] Hi there
+[CharacterFloatInfo] Hi there
+[CharacterFloatInfo] Hi there
+[CharacterFloatInfo] Hi there
+[CharacterFloatInfo] Hi there
+[CharacterFloatInfo] Hi there
+[CharacterFloatInfo] Hi there
+[CharacterFloatInfo] Hi there
+[CharacterFloatInfo] Hi there
+[CharacterFloatInfo] Hi there
+[CharacterFloatInfo] Hi there
+[CharacterFloatInfo] Hi there
+[CharacterFloatInfo] Hi there
+[CharacterFloatInfo] Hi there
+[CharacterFloatInfo] Hi there
+[CharacterFloatInfo] Hi there
+[CharacterFloatInfo] Hi there
+[CharacterFloatInfo] Hi there
+[CharacterFloatInfo] Hi there
+[CharacterFloatInfo] Hi there
+[CharacterFloatInfo] Hi there
+[CharacterFloatInfo] Hi there
+[CharacterFloatInfo] Hi there
+[CharacterFloatInfo] Hi there
+[CharacterFloatInfo] Hi there
+[CharacterFloatInfo] Hi there
+[CharacterFloatInfo] Hi there
+[CharacterFloatInfo] Hi there
+[CharacterFloatInfo] Hi there
+[CharacterFloatInfo] Hi there
+[CharacterFloatInfo] Hi there
+[CharacterFloatInfo] Hi there
+[CharacterFloatInfo] Hi there
+[CharacterFloatInfo] Hi there
+[CharacterFloatInfo] Hi there
+[CharacterFloatInfo] Hi there
+[CharacterFloatInfo] Hi there
+[CharacterFloatInfo] Hi there
+[CharacterFloatInfo] Hi there
+[CharacterFloatInfo] Hi there
+[CharacterFloatInfo] Hi there
+[CharacterFloatInfo] Hi there
+[CharacterFloatInfo] Hi there
+[CharacterFloatInfo] Hi there
+[CharacterFloatInfo] Hi there
+[CharacterFloatInfo] Hi there
+[CharacterFloatInfo] Hi there
+[CharacterFloatInfo] Hi there
+[CharacterFloatInfo] Hi there
+[CharacterFloatInfo] Hi there
+[CharacterFloatInfo] Hi there
+[CharacterFloatInfo] Hi there
+[CharacterFloatInfo] Hi there
+[CharacterFloatInfo] Hi there
+[CharacterFloatInfo] Hi there
+[CharacterFloatInfo] Hi there
+[CharacterFloatInfo] Hi there
+[CharacterFloatInfo] Hi there
+[CharacterFloatInfo] Hi there
+[CharacterFloatInfo] Hi there
+[CharacterFloatInfo] Hi there
+[CharacterFloatInfo] Hi there
+[CharacterFloatInfo] Hi there
+[CharacterFloatInfo] Hi there
+[CharacterFloatInfo] Hi there
+[CharacterFloatInfo] Hi there
+[CharacterFloatInfo] Hi there
+[CharacterFloatInfo] Hi there
+[SLManager] 开始备份存档
+[SLManager] 当前存档数:200
+[SLManager] 备份路径:D:\Steam\steamapps\common\The Scroll Of Taiwu\The Scroll Of Taiwu Alpha V1.0_Data\SaveFiles\SaveBackup\Date_1.save.00000936.zip
+[SLManager] Start WriteSaveSummary to D:\Steam\steamapps\common\The Scroll Of Taiwu\The Scroll Of Taiwu Alpha V1.0_Data\SaveFiles\Date_1\date.json
+[Majordomo] New texture file loaded: D:\Steam\steamapps\common\The Scroll Of Taiwu\Mods\Majordemo\resources\Texture\ButtonIcon_Majordomo_LogsPanel.png, texture size: 300, 300.
+[Majordomo] New texture file loaded: D:\Steam\steamapps\common\The Scroll Of Taiwu\Mods\Majordemo\resources\Texture\ButtonIcon_Majordomo_ChartsPanel.png, texture size: 300, 300.
+[Majordomo] New texture file loaded: D:\Steam\steamapps\common\The Scroll Of Taiwu\Mods\Majordemo\resources\Texture\ButtonIcon_Majordomo_AssignBuildingWorkers.png, texture size: 300, 300.
+[CharacterFloatInfo] Hi there
+[CharacterFloatInfo] Hi there
+[CharacterFloatInfo] Hi there
+[Majordomo] 新村民：雍方怀，潜在商队：公输坊
+[Majordomo] New texture file loaded: D:\Steam\steamapps\common\The Scroll Of Taiwu\Mods\Majordemo\resources\Texture\TrunEventImage_majordomo.png, texture size: 300, 300.
+[SLManager] 开始备份存档
+[SLManager] 当前存档数:200
+[SLManager] 备份路径:D:\Steam\steamapps\common\The Scroll Of Taiwu\The Scroll Of Taiwu Alpha V1.0_Data\SaveFiles\SaveBackup\Date_1.save.00000937.zip
+[SLManager] Start WriteSaveSummary to D:\Steam\steamapps\common\The Scroll Of Taiwu\The Scroll Of Taiwu Alpha V1.0_Data\SaveFiles\Date_1\date.json

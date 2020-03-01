@@ -1,0 +1,8 @@
+﻿{
+    "Id": "FactionEnhancement",
+    "DisplayName": "门派互动加强",
+    "Author": "彭某某",
+    "Version": "1.0.10",
+    "AssemblyName": "FactionEnhancement.dll",
+    "EntryMethod": "FactionEnhancement.Main.Load"
+}

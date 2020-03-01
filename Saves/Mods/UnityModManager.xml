@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Param xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+  <ShortcutKeyId>0</ShortcutKeyId>
+  <CheckUpdates>1</CheckUpdates>
+  <ModParams>
+    <Mod Id="CharacterFloatInfo" Enabled="true" />
+    <Mod Id="EasyRefine" Enabled="true" />
+    <Mod Id="FactionEnhancement" Enabled="true" />
+    <Mod Id="GameSpeeder" Enabled="true" />
+    <Mod Id="GuiBaseUI" Enabled="true" />
+    <Mod Id="HappyLife" Enabled="true" />
+    <Mod Id="Majordomo" Enabled="true" />
+    <Mod Id="MakeYourWant" Enabled="true" />
+    <Mod Id="SLManager" Enabled="true" />
+    <Mod Id="SwitchTheBook" Enabled="true" />
+    <Mod Id="UseStorageBook" Enabled="true" />
+    <Mod Id="UseStorageMaterial" Enabled="true" />
+    <Mod Id="VillageHeadOfTaiwu" Enabled="true" />
+    <Mod Id="makeMore" Enabled="true" />
+  </ModParams>
+</Param>

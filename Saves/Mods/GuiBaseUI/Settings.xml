@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Settings xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+  <bgR>0.9490196</bgR>
+  <bgG>0.509803951</bgG>
+  <bgB>0.503921568</bgB>
+  <handR>0.5882353</handR>
+  <handG>0.807843149</handG>
+  <handB>0.8156863</handB>
+  <handWidth>20</handWidth>
+</Settings>

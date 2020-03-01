@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Settings xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+  <remove4006>false</remove4006>
+  <up>true</up>
+  <down>true</down>
+  <wuliang>true</wuliang>
+  <shaolin>true</shaolin>
+  <shixiang>true</shixiang>
+  <wuxian>true</wuxian>
+  <emei>true</emei>
+  <ranshan>true</ranshan>
+  <baihua>true</baihua>
+  <jieqing>true</jieqing>
+  <fulong>true</fulong>
+  <wudang>true</wudang>
+  <zhujian>true</zhujian>
+  <xuehou>true</xuehou>
+  <yuanshan>true</yuanshan>
+  <kongsang>true</kongsang>
+</Settings>

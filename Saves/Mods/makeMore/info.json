@@ -1,0 +1,10 @@
+﻿{
+  "Id": "makeMore",
+  "DisplayName": "批量制作",
+  "Author": "幻缘飞",
+  "Version": "1.1.2",
+  "AssemblyName": "makeMore.dll",
+  "EntryMethod": "makeMore.Main.Load"
+}
+
+

@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Settings xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+  <addonInfo>false</addonInfo>
+  <shopName>false</shopName>
+  <workPlace>false</workPlace>
+  <showMood>false</showMood>
+  <showLevel>true</showLevel>
+  <hideShopInfo>false</hideShopInfo>
+  <hideCharmOfChildren>true</hideCharmOfChildren>
+  <useColorOfTeachingSkill>true</useColorOfTeachingSkill>
+  <showSexuality>true</showSexuality>
+  <showActorId>false</showActorId>
+  <showActorStatus>true</showActorStatus>
+  <lifeMessage>false</lifeMessage>
+  <showCharacteristic>true</showCharacteristic>
+  <showFamilySkill>true</showFamilySkill>
+  <showIV>false</showIV>
+  <showResources>false</showResources>
+  <showBest>true</showBest>
+  <deadActor>false</deadActor>
+  <enableMAL>true</enableMAL>
+  <enableMAN>true</enableMAN>
+  <enableDI>false</enableDI>
+  <enableBW>true</enableBW>
+  <enableTA>false</enableTA>
+  <enableAM>true</enableAM>
+  <enableRI>false</enableRI>
+  <enableMAC>true</enableMAC>
+  <enableWNV>true</enableWNV>
+  <shortMAL>false</shortMAL>
+  <shortDI>false</shortDI>
+  <shortTA>false</shortTA>
+  <shortAM>false</shortAM>
+  <shortRI>false</shortRI>
+  <minWidth>850</minWidth>
+  <colorLevelBaseOn>5</colorLevelBaseOn>
+  <showShopid>false</showShopid>
+  <enableWA>true</enableWA>
+  <showGameObjectMassage>false</showGameObjectMassage>
+</Settings>

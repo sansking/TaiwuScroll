@@ -1,0 +1,61 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Settings xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+  <gang>
+    <Pair key="0">true</Pair>
+    <Pair key="1">true</Pair>
+    <Pair key="2">true</Pair>
+    <Pair key="3">true</Pair>
+    <Pair key="4">true</Pair>
+    <Pair key="5">true</Pair>
+    <Pair key="6">true</Pair>
+    <Pair key="7">true</Pair>
+    <Pair key="8">true</Pair>
+    <Pair key="9">true</Pair>
+    <Pair key="10">true</Pair>
+    <Pair key="11">true</Pair>
+    <Pair key="12">true</Pair>
+    <Pair key="13">true</Pair>
+    <Pair key="14">true</Pair>
+    <Pair key="15">true</Pair>
+  </gang>
+  <gongfa>
+    <Pair key="0">true</Pair>
+    <Pair key="1">true</Pair>
+    <Pair key="2">true</Pair>
+    <Pair key="3">true</Pair>
+    <Pair key="4">true</Pair>
+    <Pair key="5">true</Pair>
+    <Pair key="6">true</Pair>
+    <Pair key="7">true</Pair>
+    <Pair key="8">true</Pair>
+    <Pair key="9">true</Pair>
+    <Pair key="10">true</Pair>
+    <Pair key="11">true</Pair>
+    <Pair key="12">true</Pair>
+    <Pair key="13">true</Pair>
+  </gongfa>
+  <pinji>
+    <Pair key="0">true</Pair>
+    <Pair key="1">true</Pair>
+    <Pair key="2">true</Pair>
+    <Pair key="3">true</Pair>
+    <Pair key="4">true</Pair>
+    <Pair key="5">true</Pair>
+    <Pair key="6">true</Pair>
+    <Pair key="7">true</Pair>
+    <Pair key="8">true</Pair>
+  </pinji>
+  <tof>
+    <Pair key="0">true</Pair>
+    <Pair key="1">true</Pair>
+  </tof>
+  <repo>
+    <Pair key="0">true</Pair>
+    <Pair key="1">true</Pair>
+  </repo>
+  <read>
+    <Pair key="0">true</Pair>
+    <Pair key="1">true</Pair>
+    <Pair key="2">true</Pair>
+  </read>
+</Settings>

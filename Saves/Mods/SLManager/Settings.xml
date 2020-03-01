@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Settings xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+  <blockAutoSave>false</blockAutoSave>
+  <maxBackupToLoad>8</maxBackupToLoad>
+  <maxBackupsToKeep>200</maxBackupsToKeep>
+  <enableTurboQuickLoadAfterLoad>false</enableTurboQuickLoadAfterLoad>
+  <enableTurboQuickLoadAfterSave>false</enableTurboQuickLoadAfterSave>
+  <regenerateRandomSeedAfterLoad>false</regenerateRandomSeedAfterLoad>
+</Settings>
